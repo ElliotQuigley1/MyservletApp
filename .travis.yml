@@ -15,4 +15,4 @@ deploy:
   api_key:
     secure: 42f3fcaa-bc50-449e-b9f3-4689f3867987
   app: MyservletApp
-
+  skip_cleanup: true
